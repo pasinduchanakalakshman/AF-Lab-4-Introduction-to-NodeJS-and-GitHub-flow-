@@ -1,0 +1,20 @@
+{
+  "name": "af-lab-4-introduction-to-nodejs-and-github-flow-",
+  "version": "1.0.0",
+  "description": "In this lab, We will learn the basics of Node.js, Git and GitHub flows.",
+  "homepage": "https://github.com/pasinduchanakalakshman/AF-Lab-4-Introduction-to-NodeJS-and-GitHub-flow-#readme",
+  "bugs": {
+    "url": "https://github.com/pasinduchanakalakshman/AF-Lab-4-Introduction-to-NodeJS-and-GitHub-flow-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasinduchanakalakshman/AF-Lab-4-Introduction-to-NodeJS-and-GitHub-flow-.git"
+  },
+  "license": "ISC",
+  "author": "Pasindu Chanaka",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
